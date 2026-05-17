@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(226, 226, 226);
+    margin: 0;
+    font-family: "Open Sans", sans-serif;;
+}
+
+.header {
+    background-color: rgb(0, 106, 255); 
+    color: white;
+    text-align: center; 
+    align-content: center;
+}
+.container {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+th{
+    background-color: rgb(0, 106, 255);
+    color: white;
+    border: 1px solid white;
+}
+td{
+    text-align: center;
+    border: 1px solid rgb(226, 226, 226);
+}
+form {
+    max-width: 350px;
+    margin: 10px auto;
+    text-align: left;
+}
+.required-symbol{
+    color: red;
+}
+.form-box{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+
+.form-botton{
+    width: 65px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(0, 106, 255);
+    color: white;
+    border: none;
+}
+
+span, label{
+    font-weight: bold;
+}
